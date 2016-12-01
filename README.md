@@ -1,2 +1,2 @@
 # Y.Sample
-its only store some sample
+this repository is only used to store some sample
